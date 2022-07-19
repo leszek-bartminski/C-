@@ -1,0 +1,42 @@
+D:\Wzorce projektowe\2\Laboratorium\LeszekBartmiński_Lab1_Wzorce\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+D:\Wzorce projektowe\2\Laboratorium\LeszekBartmiński_Lab1_Wzorce\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+D:\Wzorce projektowe\2\Laboratorium\LeszekBartmiński_Lab1_Wzorce\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+D:\Wzorce projektowe\2\Laboratorium\LeszekBartmiński_Lab1_Wzorce\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+D:\Wzorce projektowe\2\Laboratorium\LeszekBartmiński_Lab1_Wzorce\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+D:\Wzorce projektowe\2\Laboratorium\LeszekBartmiński_Lab1_Wzorce\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+D:\Wzorce projektowe\2\Laboratorium\LeszekBartmiński_Lab1_Wzorce\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.AssemblyReference.cache
+D:\Wzorce projektowe\2\Laboratorium\LeszekBartmiński_Lab1_Wzorce\Lab1\obj\Debug\netcoreapp3.1\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wzorce projektowe\2\Laboratorium\LeszekBartmiński_Lab1_Wzorce\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+D:\Wzorce projektowe\2\Laboratorium\LeszekBartmiński_Lab1_Wzorce\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+D:\Wzorce projektowe\2\Laboratorium\LeszekBartmiński_Lab1_Wzorce\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+D:\Wzorce projektowe\2\Laboratorium\LeszekBartmiński_Lab1_Wzorce\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+D:\Wzorce projektowe\2\Laboratorium\LeszekBartmiński_Lab1_Wzorce\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+D:\Wzorce projektowe\2\Laboratorium\LeszekBartmiński_Lab1_Wzorce\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
+C:\Users\Legion\Downloads\LeszekBartmiński_WzorceProjektowe_Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+C:\Users\Legion\Downloads\LeszekBartmiński_WzorceProjektowe_Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+C:\Users\Legion\Downloads\LeszekBartmiński_WzorceProjektowe_Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+C:\Users\Legion\Downloads\LeszekBartmiński_WzorceProjektowe_Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+C:\Users\Legion\Downloads\LeszekBartmiński_WzorceProjektowe_Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+C:\Users\Legion\Downloads\LeszekBartmiński_WzorceProjektowe_Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+C:\Users\Legion\Downloads\LeszekBartmiński_WzorceProjektowe_Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.AssemblyReference.cache
+C:\Users\Legion\Downloads\LeszekBartmiński_WzorceProjektowe_Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Downloads\LeszekBartmiński_WzorceProjektowe_Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+C:\Users\Legion\Downloads\LeszekBartmiński_WzorceProjektowe_Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+C:\Users\Legion\Downloads\LeszekBartmiński_WzorceProjektowe_Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Downloads\LeszekBartmiński_WzorceProjektowe_Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+C:\Users\Legion\Downloads\LeszekBartmiński_WzorceProjektowe_Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+C:\Users\Legion\Downloads\LeszekBartmiński_WzorceProjektowe_Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
+D:\Wzorce projektowe\___LaborkiProjekt\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+D:\Wzorce projektowe\___LaborkiProjekt\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+D:\Wzorce projektowe\___LaborkiProjekt\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+D:\Wzorce projektowe\___LaborkiProjekt\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+D:\Wzorce projektowe\___LaborkiProjekt\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+D:\Wzorce projektowe\___LaborkiProjekt\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+D:\Wzorce projektowe\___LaborkiProjekt\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.AssemblyReference.cache
+D:\Wzorce projektowe\___LaborkiProjekt\Lab1\obj\Debug\netcoreapp3.1\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wzorce projektowe\___LaborkiProjekt\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+D:\Wzorce projektowe\___LaborkiProjekt\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+D:\Wzorce projektowe\___LaborkiProjekt\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+D:\Wzorce projektowe\___LaborkiProjekt\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+D:\Wzorce projektowe\___LaborkiProjekt\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+D:\Wzorce projektowe\___LaborkiProjekt\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache

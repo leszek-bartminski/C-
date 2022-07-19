@@ -1,0 +1,7 @@
+D:\Programowanie równoległe\PierwszyProjekt\obj\Debug\PierwszyProjekt.csproj.AssemblyReference.cache
+D:\Programowanie równoległe\PierwszyProjekt\obj\Debug\PierwszyProjekt.csproj.CoreCompileInputs.cache
+D:\Programowanie równoległe\PierwszyProjekt\bin\Debug\PierwszyProjekt.exe.config
+D:\Programowanie równoległe\PierwszyProjekt\bin\Debug\PierwszyProjekt.exe
+D:\Programowanie równoległe\PierwszyProjekt\bin\Debug\PierwszyProjekt.pdb
+D:\Programowanie równoległe\PierwszyProjekt\obj\Debug\PierwszyProjekt.exe
+D:\Programowanie równoległe\PierwszyProjekt\obj\Debug\PierwszyProjekt.pdb
